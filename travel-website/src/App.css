@@ -1,0 +1,6 @@
+.main-content {
+  display: flex;
+  flex: 1;
+  padding: 20px;
+  gap: 20px; /* Adds space between Filters and HotelListings */
+}

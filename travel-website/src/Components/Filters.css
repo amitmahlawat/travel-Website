@@ -1,0 +1,12 @@
+.filter{
+    width: 200px;
+    height: 500px;
+    border: 1px solid grey;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 6px;
+    padding: 20px;
+    row-gap: 30px;
+
+}
